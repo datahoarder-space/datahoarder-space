@@ -1,0 +1,8 @@
+/build_*/
+/node_modules/
+/vendor/
+.DS_Store
+/source/assets/build/
+config.php
+config.production.php
+config.staging.php

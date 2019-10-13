@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+
+// Code syntax highlighting,
+// powered by https://highlightjs.org
+@import '~highlight.js/styles/a11y-light.css';
+
+@import 'base';
+@import 'navigation';
+@import 'documentation';
+@import 'search';
+
+@tailwind utilities;
+
+.nav-menu {
+    background-color: #111 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #eee !important;
+}
+
+code, pre {
+    background-color: #222 !important;
+}
+
+blockquote {
+    color: #eee !important;
+}

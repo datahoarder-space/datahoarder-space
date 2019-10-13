@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'Getting Started' => [
+        'url' => 'kb/getting-started',
+    ],
+    'Something missing?' => [
+        'url' => 'kb/something-missing',
+    ],
+    'Communities' => [
+        'url' => 'kb/communities/communities',
+        'children' => [
+            'The Eye Community' => 'kb/communities/the-eye',
+            'datahoarder.space Community' => 'kb/communities/datahoarder-school',
+            'Community Subreddits' => 'kb/communities/subreddits',
+            'Community Discords' => 'kb/communities/discords',
+        ],
+    ],
+    'Hardware' => [
+        'url' => 'kb/hardware/hardware',
+    ],
+    'Software' => [
+        'url' => 'kb/software/software',
+    ],
+    'Sites and content services' => [
+        'url' => 'kb/sites/sites',
+    ],
+];
