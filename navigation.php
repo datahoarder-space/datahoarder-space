@@ -24,6 +24,9 @@ return [
     ],
     'Software' => [
         'url' => 'kb/software/software',
+        'children' => [
+            'Content organisation' => 'kb/software/content-organisation/content-organisation',
+        ],
     ],
     'Sites and content services' => [
         'url' => 'kb/sites/sites',

@@ -27,3 +27,8 @@ code, pre {
 blockquote {
     color: #eee !important;
 }
+
+div.DocSearch-content>ul {
+    @apply .list-disc;
+    padding-left: 20px;
+}

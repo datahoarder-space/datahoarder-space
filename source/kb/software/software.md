@@ -7,4 +7,5 @@ section: content
 
 # Software {#software}
 
-This section of our website is currently a work-in-progress. 
+The software side of data hoarding can cover any plethora of categories from site ripping, to downloading, to content organisation etc. We have split our site into these categories on our sidebar so you can decide on the best approach or utility to use.
+
