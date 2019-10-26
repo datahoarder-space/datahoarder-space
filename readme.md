@@ -8,11 +8,12 @@ We use Jigsaw, a Laravel-based static site framework that uses markdown as well 
 
 ## Contributing
 
-To contribute, first fork the site. Make some changes and then submit a pull request. Pull requests are checked once every week. If you want to host while you make your changes please ensure you run the following commands:
+To contribute, first fork the site. Make some changes and then submit a pull request. Pull requests are checked once every week. If you want to host while you make your changes please ensure you run the following commands (after installing npm and composer):
 
 ```
 composer install
 npm install
+cp config.sample.php config.php
 npm run watch
 ```
 
