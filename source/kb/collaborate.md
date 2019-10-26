@@ -24,7 +24,7 @@ Once this is done, you can use the method of your choice for source control for 
 ```text
 composer install
 npm install
-cp config.sample.php
+cp config.sample.php config.php
 npm run watch
 ```
 
