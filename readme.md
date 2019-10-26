@@ -28,3 +28,4 @@ npm run watch
 | --------- | --------- | --------- |
 | Software | Making a self-hosted media server with Plex | @aaronduce |
 | Software | Making a self-hosted media server with Emby | TBC |
+| datahoarder.space | Understanding how our web framework works to enable you to collaborate | @aaronduce |
