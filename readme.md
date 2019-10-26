@@ -23,10 +23,4 @@ npm run watch
 | npm install  | Uses the package-lock.json configuration file to install all required node-based (could use yarn to also do this) packages to compile the site with Laravel Mix and node-sass  |
 | npm run watch | Compiles sass/js assets, compiles static site then serves static site on port 3000 |
 
-## Works list
 
-| Category | Task | Assigned user |
-| --------- | --------- | --------- |
-| Software | Making a self-hosted media server with Plex | @aaronduce |
-| Software | Making a self-hosted media server with Emby | TBC |
-| datahoarder.space | Understanding how our web framework works to enable you to collaborate | @aaronduce |
