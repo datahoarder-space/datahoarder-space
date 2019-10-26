@@ -29,6 +29,6 @@ We also have a Discord community server where you can discuss topics with like m
 
 A group of data hoarders specifically archiving and preserving as much music as possible to prevent loss of any music in the future.
 
-<a href="#"><button class="bg-transparent hover:bg-textcolor text-textcolor font-semibold hover:text-black py-2 px-4 border border-textcolor hover:border-transparent rounded">
+<a href="https://discord.gg/fEq8Jxy"><button class="bg-transparent hover:bg-textcolor text-textcolor font-semibold hover:text-black py-2 px-4 border border-textcolor hover:border-transparent rounded">
     <img src="/assets/img/Discord-Logo-White.svg" class="h-6 w-6" alt="window icon" style="display: inline;"> Visit Music Hoarders Discord Server
 </button></a>

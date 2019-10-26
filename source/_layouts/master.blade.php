@@ -89,7 +89,7 @@
         <footer class="bg-darkgrey text-center text-sm mt-4 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center">
                 <li>
-                    {{ $page->siteName }} - <a href="https://discord.gg/NG2G7qe">Discord Server</a> - <a href="fontawesome.com">Icons by Font Awesome</a> - <a href="https://datahoarder.space/kb/dmca">DMCA</a>
+                    {{ $page->siteName }} - <a href="https://discord.gg/NG2G7qe">Discord Server</a> - <a href="https://fontawesome.com">Icons by Font Awesome</a> - <a href="https://datahoarder.space/kb/dmca">DMCA</a>
                 </li>
             </ul>
         </footer>

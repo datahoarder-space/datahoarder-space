@@ -11,4 +11,4 @@ Is something missing on our site that you think the community could benefit from
 
 ## Discord {#something-missing-discord}
 
-You can get in touch with us on our <a href="">Discord server</a>. We have a ```#suggestions``` channel in which you can place your suggestions. We ask that you include a short summary of the content and it's purpose so we can better consider our priority in content addition to the site.
+You can get in touch with us on our <a href="https://discord.gg/NG2G7qe">Discord server</a>. We have a ```#suggestions``` channel in which you can place your suggestions. We ask that you include a short summary of the content and it's purpose so we can better consider our priority in content addition to the site.

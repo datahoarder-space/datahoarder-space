@@ -7,6 +7,9 @@ return [
     'Something missing?' => [
         'url' => 'kb/something-missing',
     ],
+    'Collaborate on DHS' => [
+        'url' => 'kb/collaborate',
+    ],
     'Communities' => [
         'url' => 'kb/communities/communities',
         'children' => [
