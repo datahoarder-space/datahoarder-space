@@ -15,6 +15,7 @@ return [
         'children' => [
             'The Eye Community' => 'kb/communities/the-eye',
             'datahoarder.space Community' => 'kb/communities/datahoarder-school',
+            'Archive Team' => 'kb/communities/archive-team',
             'Community Subreddits' => 'kb/communities/subreddits',
             'Community Discords' => 'kb/communities/discords',
         ],

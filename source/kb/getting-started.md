@@ -31,4 +31,6 @@ Throughout the knowledge base section of our website, there is a navigation side
 
 ### Search {#navigating-datahoarder-space-search}
 
-At the top of the page, there is now a search bar that automatically indexes keywords and sections to all of our knowledge base pages, meaning you can search for a term and find exactly what you need.
+We hope to introduce a search function in the near future - stay tuned.
+
+<!-- At the top of the page, there is now a search bar that automatically indexes keywords and sections to all of our knowledge base pages, meaning you can search for a term and find exactly what you need. -->
