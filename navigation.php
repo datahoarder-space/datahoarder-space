@@ -29,6 +29,12 @@ return [
             'Content organisation' => 'kb/software/content-organisation/content-organisation',
         ],
     ],
+    'Community History' => [
+        'url' => 'kb/history/history',
+        'children' => [
+            'Cloud storage' => 'kb/history/cloud-storage'
+        ],
+    ],
     'Sites and content services' => [
         'url' => 'kb/sites/sites',
     ],

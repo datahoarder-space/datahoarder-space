@@ -4,7 +4,7 @@
 <div class="flex flex-col items-center mt-32 text-textcolor">
     <h1 class="text-6xl text-textcolor font-light leading-none mb-2">404</h1>
 
-    <h2 class="text-3xl text-textcolor">Page not found</h2>
+    <h2 class="text-3xl text-textcolor">data not hoarded.</h2>
 
     <hr class="block w-full max-w-lg mx-auto my-8 border">
 
