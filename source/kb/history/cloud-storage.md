@@ -27,6 +27,14 @@ We have even seen <a href="https://www.youtube.com/watch?v=y2F0wjoKEhg">Linus Me
 
 Microsoft's Onedrive has a lot of pricing structures dependent on whether you are a personal user, business user or Office 365 user. It seems to contend with G Suite with affordable storage plans such as 'unlimited' storage for Office 365's OneDrive for Business Plan 2 for £7.50/user/month or $10.00/user/month, and 6TB (1,000GB/user - 6 users) on Office 365 Home for £79.99/year or $99.99/year, which also includes the desktop version of Microsoft Office.
 
-## Backblaze B2/AWS S3 {#b2}
+## AWS (Amazon Web Services) S3 {#s3}
 
-Both Backblaze's B2 service and Amazon Web Service's S3 service are long term mass storage solutions that many use for long term backup of their important data or hoarded data. Backblaze continues to offer a much cheaper service than AWS.
+Amazon Web Service's S3 service is a long term mass storage solution for bulk data. It has many uses including usage by other AWS services/containers, but is rather expensive compared to alternatives.
+
+## Backblaze B2 {#b2}
+
+Backblaze's B2 service is also a long term mass storage solution for bulk data. Data is stored in 'buckets'. It is much cheaper than AWS S3, but there is still cheaper alternatives if you are just looking for long term mass storage.
+
+## Wasabi Hot {#w-hot}
+
+Wasabi's Hot Cloud Storage service is one of the cheapest in the long term mass storage market. It also claims to be much faster than the competition (B2/S3) and have a lot of appealing features to customers.
